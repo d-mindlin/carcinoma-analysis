@@ -2,20 +2,7 @@
 title: "Survival Analysis: Large-Bowel Carcinoma"
 author: "Daniel Mindlin"
 date: "December 1st, 2018"
-output:
-  pdf_document: default
-  html_document: default
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-library(survival)
-library(KMsurv)
-library(MASS)
-library(dplyr)
-library(tidyverse)
-library(magrittr)
-```
 
 #Introduction
 
